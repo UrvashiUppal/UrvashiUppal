@@ -1,0 +1,52 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!--This is just for practice containg content of all modules -->
+<title>
+Hands on Practice 
+</title> 
+<meta name="description" content="my course work in university">
+<style>
+body{font-family:Algerian}
+p{color:purple}
+/* this is a comment in css */
+h3{border: 2px dashed #ff0000; padding: 10px;}
+h4{border-bottom: 4px double #ff6966;}
+h5{border: 6px solid #ffff00; padding: 25px 50px 75px 100px}
+h6{border: 6px solid #ffff00; padding: 25px 100px}
+</style>
+</head>
+<body>
+<nav><a href="practice3.html">| Home |</a><a href="services.html">Services |</a><a href="">Contact |</a>
+</nav>
+<a href=“island.jpg”><img src=“small.jpg”
+alt=“tropical island” width=“200” height=“100”></a>
+<h1 style="color:blue; background-color:#cccccc;">hello world</h1>
+<p style="color:pink">New version of the language HTML, with new
+elements, <b>attributes, and behaviors,</b> and a larger
+<em>set of technologies<em> that allows<i> the building of</i>
+more diverse<mark> and powerful web sites</mark> and
+applications.<small>New version of the language HTML,</small> with new
+elements,<strong> attributes, and behaviors,</strong> and a larger
+set of technologies.</p>
+<p>New version of the language HTML, with new
+elements, attributes, and behaviors, and a larger
+set of technologies that allows the building of
+more diverse and powerful web sites and
+applications.</p>
+New version of the language HTML, with new
+elements, attributes, and behaviors, and a larger
+set of technologies that allows<br> the building of
+more diverse and powerful web sites and
+applications.87<sub>55</sub>45<sup><b>6769</b></sup>
+<h2 style="color:red">hello world</h2><p>copyright&copy;</p><p>7 &lt; 10</p><p>7 &gt; 5</p><p>apple &amp; mango &amp;  papaya</p>
+<h3>hello world</h3>
+<h4>hello world</h4>
+<h5>hello world</h5>
+<h5>hello world</h5>
+<h1>hello world</h1>
+<figure><img src="mickey.jpg" alt="mickey" height="100" width="65"></figure>
+<!--This is just for practice containg content of all modules -->
+
+</body></html>

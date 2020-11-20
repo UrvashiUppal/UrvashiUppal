@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+p.center{text allign: center; color: purple; border-style: double;}
+a:hover{color: #ff0000; text decoration: none;}
+p1#para1{color: #ff0000; font-style: italic;}
+div{background-color: #ff6699; padding: 40px; color: rgb(255,255,255);}
+</style>
+<!--This is just for practice containg content of all modules -->
+<title>
+services
+</title> 
+<meta name="description" content="my course work in university">
+</head>
+<body><h1 class="center">this is headind level 1 </h1>
+<nav><a href="practice3.html">| Home |</a><a href="">Services |</a><a href="">Contact |</a>
+</nav>
+<figure>
+<img src="mickey.jpg" alt="Mickey Mouse" style="width:25%">
+ <figcaption>Figure 1 - mickey mouse</figcaption></figure>
+<details><summary>epcourt centre park</summary>
+<p>it is a theme park establised in 1998</p></details><p>Open from <time>10:00</time> to <time>21:00</time> every
+weekday.</p>
+<p1 id="para1">All the styles in a page will "cascade" into a new
+"virtual" style sheet by the following rules, where
+number one has the All the styles in a page will "cascade" into a new
+"virtual" style sheet by the following rules, where
+number one has the </p1>
+<div><ul>
+<li>apple</li><li>mango</li><li>banana</li><li>pineapple</li>
+</ul><hr>
+<ol start="lower-alpha">
+<li>apple</li><li>mango</li><li>banana</li><li>pineapple</li></ol><hr>
+<dl>lists<dt>apple-</dt><dd>fruit</dd><dt>mango-</dt><dd>fruit</dd><dt>guava-</dt><dd>fruit</dd></dl></div>
+<blockquote cite="https://www.huxley.net/bnw/four.html"><header>this is a short quotation</header>
+<p class="center">words can be like X-rays, if you use them properly they'll gonthrough them</p>
+<footer>-aldous huxley,<cite>Brave New World</cite></footer></blockquote>
+<p>According to a website<q cite="https://www.huxley.net/bnw/four.html">
+words can be like X-rays, if you use them properly they'll gonthrough them<footer>-aldous huxley,<cite>Brave New World</cite></footer>
+</q></p>
+<a href="practice3.html"><img src="mickey.jpg" alt="mickey" height="120" width="65"></a><figcaption><a href="practice3.html">return to home page</a></figcaption>
+</body></html>
